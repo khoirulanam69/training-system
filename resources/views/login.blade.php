@@ -5,7 +5,7 @@
 <body class="animsition">
     <div class="page-wrapper">
         <div class="page-content--bge5">
-                <div class="row">
+                <div class="row justify-content-center align-items-center">
                     <div class="col-md-6">
                         <span class="login-photo"></span>
                     </div>

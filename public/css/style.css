@@ -780,6 +780,7 @@ pre code {
     flex-wrap: wrap;
     margin-right: -10px;
     margin-left: -10px;
+    height: 100%;
 }
 
 .no-gutters {
@@ -7246,7 +7247,6 @@ button.bg-purple:focus {
     -webkit-box-align: center !important;
     -ms-flex-align: center !important;
     align-items: center !important;
-    padding: 13px;
 }
 
 .align-items-baseline {
