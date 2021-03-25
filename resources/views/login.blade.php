@@ -2,7 +2,7 @@
 <html lang="en">
 <title>TWS Citra | Login</title>
 @include('partials.header')
-<body class="animsition">
+<body class="login-page animsition">
     <div class="page-wrapper">
         <div class="page-content--bge5">
                 <div class="row justify-content-center align-items-center">

@@ -13582,6 +13582,12 @@ table#spectrains tr td:nth-child(7) {
         border-radius: 10px;
         background: rgba(220, 220, 220, 0.8);
     }
+    .login-page .col-md-6:first-child{
+        height: 100%;
+    }
+    .login-page .col-md-6:last-child{
+        position: absolute;
+    }
 }
 
 @media (max-width: 575px) {
